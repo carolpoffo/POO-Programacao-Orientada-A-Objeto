@@ -1,0 +1,15 @@
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.csproj.AssemblyReference.cache
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.AssemblyInfoInputs.cache
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.AssemblyInfo.cs
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.csproj.CoreCompileInputs.cache
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\bin\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.exe
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\bin\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.deps.json
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\bin\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.runtimeconfig.json
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\bin\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.dll
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\bin\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.pdb
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.dll
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\refint\POO_ProgramacaoOrientadaAObjeto.dll
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.pdb
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\POO_ProgramacaoOrientadaAObjeto.genruntimeconfig.cache
+C:\Users\carolina.poffo\source\repos\POO_ProgramacaoOrientadaAObjeto\POO_ProgramacaoOrientadaAObjeto\obj\Debug\net7.0\ref\POO_ProgramacaoOrientadaAObjeto.dll

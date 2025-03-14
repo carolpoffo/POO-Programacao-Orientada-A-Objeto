@@ -39,7 +39,7 @@ namespace POO_ProgramacaoOrientadaAObjeto
                 saldo += valor;
             }
         }
-        public bool Sacar(double valor)
+        public virtual bool Sacar(double valor)
         {
             if (valor > 0 && saldo >= valor) //pode sacar se valor for maior que zero e tiver saldo
             {
@@ -47,6 +47,10 @@ namespace POO_ProgramacaoOrientadaAObjeto
                 return true;
             }
             return false;
+        }
+        public void ExibirSaldo()
+        {
+            Console.WriteLine($"{titular} | Saldo: R${saldo:F2}");
         }
     }
 }

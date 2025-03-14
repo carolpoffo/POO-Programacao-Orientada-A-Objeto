@@ -1,56 +1,68 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace POO_ProgramacaoOrientadaAObjeto
 {
     class ContaBancaria
     {
-        //atributos privados
+        //Atributos privados
         private int numeroConta;
         private string titular;
         private double saldo;
 
+        public int NumeroConta
+        {
+            get { return numeroConta; }
+            private set { numeroConta = value; }
+        }
+
+        public string Titular
+        {
+            get { return titular; }
+            private set { titular = value; }
+        }
+
+        public double Saldo
+        {
+            get { return saldo; }
+            private set { saldo = value; }
+        }
+
         public ContaBancaria(int numeroConta, string titular, double saldoInicial)
         {
-            this.numeroConta = numeroConta;
-            this.titular = titular;
-            this.saldo = saldoInicial;
+            NumeroConta = numeroConta;
+            Titular = titular;
+            Saldo = saldoInicial;
         }
-        //acessar os atributos
-        public int getNumeroConta()
-        {
-            return numeroConta;
-        }
-        public string getTitular()
-        {
-            return titular;
-        }
-        public double getSaldo()
-        {
-            return saldo;
-        }
+
         public void Depositar(double valor)
         {
             if (valor > 0)
             {
-                saldo += valor;
+                Saldo += valor;
+            }
+            else
+            {
+                Console.WriteLine("Não é possível realizar a operação, pois não consta nenhum valor para depósito");
             }
         }
+
         public virtual bool Sacar(double valor)
         {
-            if (valor > 0 && saldo >= valor) //pode sacar se valor for maior que zero e tiver saldo
+            if (valor > 0 && saldo >= valor)
             {
-                saldo-= valor;
+                saldo -= valor;
                 return true;
             }
-            return false;
+            else
+            {
+                Console.WriteLine("Não é possível realizar a operação, pois o saldo não é suficiente para o saque");
+                return false;
+            }
         }
+
         public void ExibirSaldo()
         {
-            Console.WriteLine($"{titular} | Saldo: R${saldo:F2}");
+            Console.WriteLine($"{Titular} | Saldo: R${Saldo:F2}");
         }
     }
 }
